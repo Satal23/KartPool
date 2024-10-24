@@ -1,0 +1,1493 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-10-24T03:54:09Z",
+    "timestamp_areas_base": "2024-10-24T00:31:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 364554102,
+      "lat": 33.6503583,
+      "lon": -117.8375537,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "4225",
+        "addr:postcode": "92612",
+        "addr:state": "CA",
+        "addr:street": "Campus Drive",
+        "branch": "Irvine - University Center",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "operator": "Trader Joe's",
+        "phone": "+1 949-509-6138",
+        "ref": "111",
+        "shop": "supermarket",
+        "website": "https://locations.traderjoes.com/ca/irvine/111/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150448602,
+      "lat": 33.7333807,
+      "lon": -117.7597931,
+      "tags": {
+        "alt_name": "Lilikoi Boutique",
+        "name": "Lilikoi",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150448615,
+      "lat": 33.7334968,
+      "lon": -117.7597046,
+      "tags": {
+        "name": "Beauty Source",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150458067,
+      "lat": 33.7334053,
+      "lon": -117.760587,
+      "tags": {
+        "brand": "Chico's",
+        "brand:wikidata": "Q5096393",
+        "name": "Chico's",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150458070,
+      "lat": 33.7335214,
+      "lon": -117.760716,
+      "tags": {
+        "alt_name": "Bellagio Spa & Salon",
+        "name": "Bellagio",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150469980,
+      "lat": 33.7347414,
+      "lon": -117.7617351,
+      "tags": {
+        "name": "Green Cleaners",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150469992,
+      "lat": 33.734873,
+      "lon": -117.7616009,
+      "tags": {
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153885188,
+      "lat": 33.7346923,
+      "lon": -117.7618236,
+      "tags": {
+        "name": "Esprit Nails & Spa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153885191,
+      "lat": 33.7219646,
+      "lon": -117.7710458,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "3993",
+        "addr:postcode": "92602",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "name": "Hair Masters",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153889714,
+      "lat": 33.7231238,
+      "lon": -117.7710825,
+      "tags": {
+        "name": "Cynthia's Hallmark",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153889718,
+      "lat": 33.7229722,
+      "lon": -117.7708814,
+      "tags": {
+        "name": "Northpark Optmetry",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153889720,
+      "lat": 33.7233246,
+      "lon": -117.7713776,
+      "tags": {
+        "name": "Happy Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153889721,
+      "lat": 33.7232131,
+      "lon": -117.7712033,
+      "tags": {
+        "name": "Celebrity Cleaners",
+        "shop": "dry_cleaning",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153889724,
+      "lat": 33.7231685,
+      "lon": -117.7711443,
+      "tags": {
+        "brand": "Massage Envy",
+        "brand:wikidata": "Q22922899",
+        "name": "Massage Envy",
+        "shop": "massage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1156082695,
+      "lat": 33.7233982,
+      "lon": -117.7732257,
+      "tags": {
+        "name": "Tony's Tailor",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236719525,
+      "lat": 33.6971058,
+      "lon": -117.7429835,
+      "tags": {
+        "addr:housenumber": "6286",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "name": "Second Street Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236719539,
+      "lat": 33.6970567,
+      "lon": -117.7429165,
+      "tags": {
+        "addr:housenumber": "6290",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "name": "Pialago Cleaners",
+        "shop": "dry_cleaning",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236719546,
+      "lat": 33.6971481,
+      "lon": -117.7430533,
+      "tags": {
+        "addr:housenumber": "6282",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "name": "Rock N' Road Cyclery",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236734139,
+      "lat": 33.6972988,
+      "lon": -117.743125,
+      "tags": {
+        "addr:housenumber": "6274",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "brand": "Sport Clips",
+        "brand:wikidata": "Q7579310",
+        "name": "Sport Clips",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236734140,
+      "lat": 33.6975297,
+      "lon": -117.743155,
+      "tags": {
+        "addr:housenumber": "6258",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "name": "Pink Mascara",
+        "not:brand:wikidata": "Q20716793",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236734144,
+      "lat": 33.6974068,
+      "lon": -117.743134,
+      "tags": {
+        "addr:housenumber": "6270",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "name": "Woodbury Family Optometry",
+        "shop": "optometry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236743858,
+      "lat": 33.6979692,
+      "lon": -117.743201,
+      "tags": {
+        "brand": "GNC",
+        "brand:wikidata": "Q4808595",
+        "name": "GNC",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236743859,
+      "lat": 33.6981901,
+      "lon": -117.7432276,
+      "tags": {
+        "addr:housenumber": "6226",
+        "addr:street": "Irvine Boulevard",
+        "name": "Pet Supply",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1236743860,
+      "lat": 33.6978957,
+      "lon": -117.7432035,
+      "tags": {
+        "addr:housenumber": "6234",
+        "addr:street": "Irvine Boulevard",
+        "name": "Cox Solutions Store",
+        "shop": "cable"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1707211887,
+      "lat": 33.686131,
+      "lon": -117.8131068,
+      "tags": {
+        "brand": "Men's Wearhouse",
+        "brand:wikidata": "Q57405513",
+        "clothes": "suits",
+        "name": "Men's Wearhouse",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3134614835,
+      "lat": 33.6839932,
+      "lon": -117.8162021,
+      "tags": {
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "name": "Circle K",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3134653402,
+      "lat": 33.6806097,
+      "lon": -117.8379868,
+      "tags": {
+        "name": "Sunny Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3175727683,
+      "lat": 33.7218038,
+      "lon": -117.7709884,
+      "tags": {
+        "name": "Superclips",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3583788677,
+      "lat": 33.6690217,
+      "lon": -117.76524,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6614",
+        "addr:postcode": "92618",
+        "addr:street": "Irvine Center Drive",
+        "name": "Brow Mantra Threading Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3583788678,
+      "lat": 33.6689746,
+      "lon": -117.765173,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6616",
+        "addr:postcode": "92618",
+        "addr:street": "Irvine Center Drive",
+        "brand": "See's Candies",
+        "brand:wikidata": "Q2103510",
+        "name": "See's Candies",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3583788690,
+      "lat": 33.6683548,
+      "lon": -117.764292,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6646",
+        "addr:postcode": "92618",
+        "addr:street": "Irvine Center Drive",
+        "beauty": "nails",
+        "name": "Lovely Nails & Spa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3583788692,
+      "lat": 33.6682731,
+      "lon": -117.764176,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6650",
+        "addr:postcode": "92618",
+        "addr:street": "Irvine Center Drive",
+        "name": "Bishops Cut/Color",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4067301095,
+      "lat": 33.6844751,
+      "lon": -117.812381,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "3800",
+        "addr:postcode": "92606",
+        "addr:state": "CA",
+        "addr:street": "Barranca Parkway",
+        "beauty": "eyelash",
+        "brand": "Amazing Lash Studio",
+        "brand:wikidata": "Q108469240",
+        "name": "Amazing Lash Studio",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4433485091,
+      "lat": 33.6879877,
+      "lon": -117.8341365,
+      "tags": {
+        "name": "85°C Bakery Cafe",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4466344696,
+      "lat": 33.6864824,
+      "lon": -117.8572001,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "17775",
+        "addr:postcode": "92614",
+        "addr:state": "CA",
+        "addr:street": "Main Street",
+        "addr:unit": "M",
+        "name": "Bird of Paradise Couture Florals",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-14:00",
+        "owner": "Shirin Kazemi",
+        "phone": "+1-949-474-7311",
+        "shop": "florist",
+        "website": "https://www.bopflorist.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4700488955,
+      "lat": 33.6548577,
+      "lon": -117.7780496,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6761",
+        "addr:postcode": "92603",
+        "addr:street": "Quail Hill Parkway",
+        "name": "Majestic Spa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4700488956,
+      "lat": 33.6548976,
+      "lon": -117.7779667,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6755",
+        "addr:postcode": "92603",
+        "addr:street": "Quail Hill Parkway",
+        "name": "Dogma!",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4700488966,
+      "lat": 33.6553789,
+      "lon": -117.7780139,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6705",
+        "addr:postcode": "92603",
+        "addr:street": "Quail Hill Parkway",
+        "name": "Images Luxury Nail Lounge",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4700488967,
+      "lat": 33.6553826,
+      "lon": -117.7781186,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6701",
+        "addr:postcode": "92603",
+        "addr:street": "Quail Hill Parkway",
+        "name": "New Look Skin Center",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794132094,
+      "lat": 33.7070317,
+      "lon": -117.784194,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "The UPS Store",
+        "brand:wikidata": "Q7771029",
+        "name": "The UPS Store",
+        "shop": "copyshop",
+        "short_name": "UPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794134123,
+      "lat": 33.7074495,
+      "lon": -117.783794,
+      "tags": {
+        "name": "JAX Bicycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4843892222,
+      "lat": 33.6588053,
+      "lon": -117.744477,
+      "tags": {
+        "addr:housenumber": "107",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Technology Drive",
+        "brand": "PGA Tour Superstore",
+        "brand:wikidata": "Q125705404",
+        "name": "PGA Superstore Irvine",
+        "shop": "sports",
+        "sport": "golf",
+        "website": "https://www.pgatoursuperstore.com/stores/detail?StoreID=0802"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4964265935,
+      "lat": 33.6972984,
+      "lon": -117.7979238,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "15265",
+        "addr:postcode": "92604-3085",
+        "addr:state": "CA",
+        "addr:street": "Culver Drive",
+        "atm": "yes",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "fast_food": "yes",
+        "fuel:propane": "yes",
+        "name": "7-Eleven",
+        "operator": "7-Eleven",
+        "phone": "+1 949-552-2945",
+        "ref": "26846",
+        "shop": "convenience",
+        "website": "https://www.7-eleven.com/locations/ca/irvine/15265-culver-dr-26846"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998745536,
+      "lat": 33.6541536,
+      "lon": -117.778449,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6787",
+        "addr:postcode": "92603",
+        "addr:street": "Quail Hill Parkway",
+        "name": "Inspire Chiropractic",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998745537,
+      "lat": 33.6544316,
+      "lon": -117.778479,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6779",
+        "addr:postcode": "92603",
+        "addr:street": "Quail Hill Parkway",
+        "brand": "Sport Clips",
+        "brand:wikidata": "Q7579310",
+        "name": "Sport Clips",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5160350023,
+      "lat": 33.6495776,
+      "lon": -117.8390276,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "4255",
+        "addr:postcode": "92612",
+        "addr:state": "CA",
+        "addr:street": "Campus Drive",
+        "addr:unit": "A150",
+        "branch": "Irvine University Town Center",
+        "brand": "Target",
+        "brand:wikidata": "Q1046951",
+        "name": "Target",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-949-988-6230",
+        "ref": "3233",
+        "shop": "supermarket",
+        "website": "https://www.target.com/sl/irvine-university-town-center/3233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5185023293,
+      "lat": 33.653167,
+      "lon": -117.750999,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "41",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Prism",
+        "name": "Irvine Village Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5646568890,
+      "lat": 33.6295804,
+      "lon": -117.7244632,
+      "tags": {
+        "entrance": "main",
+        "name": "Orange County Mattress",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5646568891,
+      "lat": 33.6293224,
+      "lon": -117.7245502,
+      "tags": {
+        "entrance": "main",
+        "name": "Arizona Leather",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6279558812,
+      "lat": 33.6345329,
+      "lon": -117.721214,
+      "tags": {
+        "name": "All Star Glass",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6308945583,
+      "lat": 33.6578482,
+      "lon": -117.7436596,
+      "tags": {
+        "name": "Living Spaces",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6308945584,
+      "lat": 33.6576473,
+      "lon": -117.7434343,
+      "tags": {
+        "name": "Revive Sleep Center",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6308947385,
+      "lat": 33.6574062,
+      "lon": -117.742914,
+      "tags": {
+        "brand": "Office Depot",
+        "brand:wikidata": "Q1337797",
+        "fixme:atp": "check if location still exists; no corresponding ATP location found",
+        "name": "Office Depot",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6308947386,
+      "lat": 33.6573191,
+      "lon": -117.7425626,
+      "tags": {
+        "name": "Bassett",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6776211960,
+      "lat": 33.6508324,
+      "lon": -117.8387242,
+      "tags": {
+        "brand": "FedEx Office",
+        "brand:wikidata": "Q474379",
+        "name": "FedEx Office",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6776211961,
+      "lat": 33.6504327,
+      "lon": -117.8386762,
+      "tags": {
+        "brand": "T-Mobile",
+        "brand:wikidata": "Q3511885",
+        "name": "T-Mobile",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7192236784,
+      "lat": 33.6492165,
+      "lon": -117.8322633,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "4513",
+        "addr:postcode": "92612",
+        "addr:state": "CA",
+        "addr:street": "Campus Drive",
+        "brand": "Great Clips",
+        "brand:wikidata": "Q5598967",
+        "height": "6.19",
+        "name": "Great Clips",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194200842,
+      "lat": 33.6895634,
+      "lon": -117.7694285,
+      "tags": {
+        "addr:unit": "D",
+        "name": "J Sweet Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194236189,
+      "lat": 33.6880205,
+      "lon": -117.7714885,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "14805",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Jeffrey Road",
+        "addr:unit": "E",
+        "name": "Sunmerry Bakery/ Happy Lemon",
+        "phone": "(949) 398-8066",
+        "shop": "bakery",
+        "website": "https://www.sunmerryus.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7831012477,
+      "lat": 33.726081,
+      "lon": -117.7871026,
+      "tags": {
+        "name": "Mathis Brothers Funiture",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7831040022,
+      "lat": 33.7270708,
+      "lon": -117.7868208,
+      "tags": {
+        "name": "BBQ Galore",
+        "shop": "bbq"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7831049696,
+      "lat": 33.7268179,
+      "lon": -117.787077,
+      "tags": {
+        "alt_name": "Verizon Wireless",
+        "brand": "Verizon",
+        "brand:wikidata": "Q919641",
+        "name": "Verizon",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8347696580,
+      "lat": 33.6503613,
+      "lon": -117.8389429,
+      "tags": {
+        "brand": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "name": "Miniso",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8432596271,
+      "lat": 33.633467,
+      "lon": -117.7304314,
+      "tags": {
+        "addr:housenumber": "9710",
+        "addr:street": "Research Drive",
+        "name": "Compudirect3000",
+        "opening_hours": "Mo-Fr 10:00-16:30",
+        "phone": "9495813036",
+        "shop": "computer",
+        "website": "https://www.cd3k.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8816186978,
+      "lat": 33.6506956,
+      "lon": -117.839031,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "4187",
+        "addr:postcode": "92612",
+        "addr:state": "CA",
+        "addr:street": "Campus Drive",
+        "addr:unit": "Suite M174",
+        "brand": "Insomnia Cookies",
+        "brand:wikidata": "Q16997024",
+        "name": "Insomnia Cookies",
+        "opening_hours": "Mo-We 11:00-00:00; Th-Fr 11:00-01:00; Sa 12:00-01:00; Su 12:00-00:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "6579005114",
+        "shop": "bakery",
+        "website": "https://insomniacookies.com/menu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8828859380,
+      "lat": 33.6640482,
+      "lon": -117.8257194,
+      "tags": {
+        "brand": "Sport Clips",
+        "brand:wikidata": "Q7579310",
+        "name": "Sport Clips",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8828859382,
+      "lat": 33.6639773,
+      "lon": -117.8258081,
+      "tags": {
+        "name": "University Park Cleaners",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8837693096,
+      "lat": 33.6486609,
+      "lon": -117.841789,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "210",
+        "addr:postcode": "92612",
+        "addr:state": "CA",
+        "addr:street": "UCI Student Center",
+        "addr:unit": "B",
+        "name": "The Hill",
+        "opening_hours": "Tu 10:00-13:00; We-Th 09:00-16:00",
+        "operator": "UCI",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "(949) 824-4455",
+        "shop": "gift",
+        "website": "https://uci.bncollege.com/shop/uci/home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8925209687,
+      "lat": 33.6332648,
+      "lon": -117.722004,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "44",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Auto Center Drive",
+        "brand": "Lamborghini",
+        "brand:wikidata": "Q35886",
+        "name": "Lamborghini Newport Beach",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa 10:00-17:00",
+        "phone": "+18887087504",
+        "shop": "car",
+        "website": "https://www.lambonb.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9335628558,
+      "lat": 33.6782071,
+      "lon": -117.7449683,
+      "tags": {
+        "name": "Anaheim Ducks Team Store",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158269,
+      "lat": 33.6961591,
+      "lon": -117.7994691,
+      "tags": {
+        "brand": "CVS Pharmacy",
+        "brand:website": "https://www.cvs.com/",
+        "brand:wikidata": "Q2078880",
+        "brand:wikipedia": "en:CVS Pharmacy",
+        "name": "CVS Pharmacy",
+        "shop": "chemist",
+        "short_name": "CVS",
+        "website": "https://www.cvs.com/store-locator/irvine-ca-pharmacies/15333-culver-blvd-suite-300-irvine-ca-92604/storeid=6768"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158273,
+      "lat": 33.695973,
+      "lon": -117.7994011,
+      "tags": {
+        "beauty": "nails",
+        "name": "Lovely Nail & Spa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158282,
+      "lat": 33.6955225,
+      "lon": -117.7988818,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "15333",
+        "addr:postcode": "92604",
+        "addr:state": "CA",
+        "addr:street": "Culver Drive",
+        "addr:unit": "500",
+        "branch": "Irvine",
+        "brand": "Petco",
+        "brand:wikidata": "Q7171798",
+        "name": "Petco",
+        "opening_hours": "Mo-We 09:00-21:00; Th 09:00-17:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+        "phone": "+1 949-262-1400",
+        "ref": "936",
+        "shop": "pet",
+        "website": "https://stores.petco.com/ca/irvine/pet-supplies-irvine-ca-936.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158284,
+      "lat": 33.6955323,
+      "lon": -117.7986202,
+      "tags": {
+        "name": "Tompkins Flooring",
+        "shop": "flooring"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158285,
+      "lat": 33.6955399,
+      "lon": -117.7984973,
+      "tags": {
+        "name": "Ms Slim",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158286,
+      "lat": 33.6956139,
+      "lon": -117.7982749,
+      "tags": {
+        "name": "J.J. Bakery-Cafe",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158289,
+      "lat": 33.6965653,
+      "lon": -117.7981217,
+      "tags": {
+        "name": "Vital Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158290,
+      "lat": 33.6966796,
+      "lon": -117.7981191,
+      "tags": {
+        "brand": "Fast-Fix",
+        "brand:wikidata": "Q108411186",
+        "name": "Fast-Fix",
+        "official_name": "Fast-Fix Jewelry and Watch Repairs",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158291,
+      "lat": 33.6976557,
+      "lon": -117.7981505,
+      "tags": {
+        "name": "Armstrong Garden Center",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158296,
+      "lat": 33.6966698,
+      "lon": -117.7989274,
+      "tags": {
+        "name": "Sola Salons",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158297,
+      "lat": 33.6966056,
+      "lon": -117.7991837,
+      "tags": {
+        "name": "Giant Cleaners",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158300,
+      "lat": 33.6970104,
+      "lon": -117.8000012,
+      "tags": {
+        "brand": "O'Reilly Auto Parts",
+        "brand:wikidata": "Q7071951",
+        "name": "O'Reilly Auto Parts",
+        "shop": "car_parts",
+        "website": "https://locations.oreillyauto.com/ca/irvine/autoparts-3576.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591158303,
+      "lat": 33.6968113,
+      "lon": -117.8006029,
+      "tags": {
+        "brand": "BevMo!",
+        "brand:wikidata": "Q4899308",
+        "name": "BevMo!",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9659800680,
+      "lat": 33.6497921,
+      "lon": -117.8386696,
+      "tags": {
+        "name": "Sanrio",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9661959286,
+      "lat": 33.648433,
+      "lon": -117.8427363,
+      "tags": {
+        "name": "Zot-N-Go",
+        "opening_hours": "Mo-Th 07:30-20:00, Fr 07:30-17:00",
+        "operator": "UCI Dining",
+        "shop": "convenience",
+        "website": "https://uci.campusdish.com/en/LocationsAndMenus/StudentCenter/ZotNGoMarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9664956351,
+      "lat": 33.6505496,
+      "lon": -117.8382904,
+      "tags": {
+        "name": "Sutra Threading & Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9667302621,
+      "lat": 33.6887772,
+      "lon": -117.8338506,
+      "tags": {
+        "name": "Palace Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9669552147,
+      "lat": 33.6368131,
+      "lon": -117.7341934,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "9311",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Research Drive",
+        "image": "https://photo.isu.pub/bidlaneirvine/photo_large.jpg",
+        "name": "BIDLANE",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "800-604-2198",
+        "shop": "car",
+        "website": "https://www.bidlane.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9720041292,
+      "lat": 33.6693018,
+      "lon": -117.7656036,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "6602",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Irvine Center Drive",
+        "atm": "yes",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "delivery": "yes",
+        "fast_food": "yes",
+        "fuel:propane": "yes",
+        "name": "7-Eleven",
+        "phone": "+1 949-341-0255",
+        "ref": "35601",
+        "shop": "convenience",
+        "website": "https://www.7-eleven.com/locations/ca/irvine/6602-irvine-center-dr-35601"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9720041293,
+      "lat": 33.6692328,
+      "lon": -117.7655248,
+      "tags": {
+        "name": "Irvine Bicycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9962818640,
+      "lat": 33.6914994,
+      "lon": -117.7354185,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "235 Follyhatch",
+        "name": "NatuRoids",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "payment:amex": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "949-419-7489",
+        "shop": "nutrition_supplements",
+        "website": "https://naturoids.health"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10258410473,
+      "lat": 33.6494176,
+      "lon": -117.7410324,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:country": "US",
+        "addr:housenumber": "890",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Spectrum Center Drive",
+        "brand:wikidata": "Q188326",
+        "name": "H&M",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10258410474,
+      "lat": 33.6492055,
+      "lon": -117.74085,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:country": "US",
+        "addr:housenumber": "893",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Spectrum Center Drive",
+        "brand:wikidata": "Q5499945",
+        "name": "Free People",
+        "second_hand": "no",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10293963679,
+      "lat": 33.6727627,
+      "lon": -117.8468751,
+      "tags": {
+        "addr:housenumber": "2981",
+        "addr:street": "Michelson Drive",
+        "addr:unit": "A",
+        "name": "Verizon",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10293963682,
+      "lat": 33.6721685,
+      "lon": -117.8461826,
+      "tags": {
+        "addr:housenumber": "2963",
+        "addr:street": "Michelson Drive",
+        "name": "Mother’s",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376226,
+      "lat": 33.634448,
+      "lon": -117.7211482,
+      "tags": {
+        "name": "KarKrib Automotive",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376227,
+      "lat": 33.6340197,
+      "lon": -117.7209931,
+      "tags": {
+        "name": "Vtec Auto Parts",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376228,
+      "lat": 33.6339163,
+      "lon": -117.7209505,
+      "tags": {
+        "name": "South County Brakes & More",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376230,
+      "lat": 33.6342993,
+      "lon": -117.7210725,
+      "tags": {
+        "name": "Automotive Plus",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376231,
+      "lat": 33.6341072,
+      "lon": -117.7210306,
+      "tags": {
+        "name": "Gene’s Auto Repair",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376232,
+      "lat": 33.6297717,
+      "lon": -117.724448,
+      "tags": {
+        "name": "LA Carpet Kitchen & Bath",
+        "shop": "appliance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376233,
+      "lat": 33.6301938,
+      "lon": -117.7244066,
+      "tags": {
+        "name": "Kohler",
+        "shop": "appliance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376234,
+      "lat": 33.6337131,
+      "lon": -117.7208454,
+      "tags": {
+        "name": "Wheel & Tire Connection",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612376235,
+      "lat": 33.6299453,
+      "lon": -117.7244463,
+      "tags": {
+        "name": "The Lighting Gallery",
+        "shop": "lighting"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11026260236,
+      "lat": 33.6499084,
+      "lon": -117.7431022,
+      "tags": {
+        "brand": "BoxLunch",
+        "brand:wikidata": "Q21334594",
+        "name": "BoxLunch",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11030419193,
+      "lat": 33.6504302,
+      "lon": -117.743858,
+      "tags": {
+        "brand": "Old Navy",
+        "brand:wikidata": "Q2735242",
+        "name": "Old Navy",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11258652451,
+      "lat": 33.6453092,
+      "lon": -117.8394567,
+      "tags": {
+        "name": "Side Door",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11350402469,
+      "lat": 33.6521523,
+      "lon": -117.7458023,
+      "tags": {
+        "name": "Sprinkles",
+        "name:en": "Sprinkles Cupcakes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11530027969,
+      "lat": 33.6337765,
+      "lon": -117.7347783,
+      "tags": {
+        "addr:postcode": "92618",
+        "name": "CD3K",
+        "opening_hours": "Mo-Fr 10:00-16:30",
+        "phone": "9495813036",
+        "shop": "computer",
+        "website": "https://www.cd3k.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11809317196,
+      "lat": 33.6719801,
+      "lon": -117.7897901,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "5345",
+        "addr:postcode": "92604",
+        "addr:state": "CA",
+        "addr:street": "Alton Parkway",
+        "branch": "Alton Square",
+        "brand": "Ralphs",
+        "brand:wikidata": "Q3929820",
+        "name": "Ralphs",
+        "opening_hours": "Mo-Su 05:00-01:00",
+        "phone": "+1 949-552-0597",
+        "ref": "70300154",
+        "shop": "supermarket",
+        "website": "https://www.ralphs.com/stores/grocery/ca/irvine/alton-square/703/00154"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12154191308,
+      "lat": 33.6489081,
+      "lon": -117.7413492,
+      "tags": {
+        "addr:city": "Irvine",
+        "addr:housenumber": "840",
+        "addr:postcode": "92618",
+        "addr:state": "CA",
+        "addr:street": "Spectrum Center Drive",
+        "branch": "Irvine Spectrum",
+        "brand": "TravisMathew",
+        "brand:wikidata": "Q128212818",
+        "image": "https://www.travismathew.com/medias/sys_master/images/images/h63/hec/9098495655966/M6661-FH22-BRAND-STORE-OPENIG-IRVINE-SPECTRUM-PHOTOS-EDITS-SOCIAL-1080X1080-05.jpg",
+        "name": "TravisMathew",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-21:00",
+        "phone": "+1 949-676-1031",
+        "ref": "T030",
+        "shop": "clothes",
+        "website": "https://www.travismathew.com/stores/T030"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12193448298,
+      "lat": 33.6849883,
+      "lon": -117.8103368,
+      "tags": {
+        "brand": "Floyd's 99 Barbershop",
+        "brand:wikidata": "Q120599645",
+        "name": "Floyd's 99 Barbershop",
+        "shop": "hairdresser"
+      }
+    }
+  ]
+}
